@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\YNTMD\\projects\\swin\\tim\\DB_project\\jevons_game\\jevons_game.csproj": {}
+    "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\JevonsGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\YNTMD\\projects\\swin\\tim\\DB_project\\jevons_game\\jevons_game.csproj": {
+    "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\JevonsGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\YNTMD\\projects\\swin\\tim\\DB_project\\jevons_game\\jevons_game.csproj",
-        "projectName": "jevons_game",
-        "projectPath": "C:\\Users\\YNTMD\\projects\\swin\\tim\\DB_project\\jevons_game\\jevons_game.csproj",
-        "packagesPath": "C:\\Users\\YNTMD\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\YNTMD\\projects\\swin\\tim\\DB_project\\jevons_game\\obj\\",
+        "projectUniqueName": "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\JevonsGame.csproj",
+        "projectName": "JevonsGame",
+        "projectPath": "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\JevonsGame.csproj",
+        "packagesPath": "C:\\Users\\dhanr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\YNTMD\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dhanr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
