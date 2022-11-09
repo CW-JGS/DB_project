@@ -2,9 +2,15 @@
 
 public class StateMachine
 {
-    private IState currentState;
+    private State currentState;
+    public Game game;
 
-    public void TransitionState(IState state)
+    public StateMachine(Game game)
+    {
+        this.game = game;
+    }
+
+    public void TransitionState(State state)
     {
         currentState?.OnExit();
         currentState = state;

@@ -1,14 +1,18 @@
 ﻿namespace JevonsGame.States;
 
-public class SearchState : IState
+public class SearchState : State
 {
-    public void OnEnter()
+    public override void OnEnter()
     {
         throw new NotImplementedException();
     }
 
-    public void OnExit()
+    public override void OnExit()
     {
         throw new NotImplementedException();
+    }
+
+    public SearchState(StateMachine stateMachine) : base(stateMachine)
+    {
     }
 }

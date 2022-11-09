@@ -2,23 +2,23 @@
 
 namespace JevonsGame.States;
 
-public class CombatState : IState
+public class CombatState : State
 {
     private Enemy enemy;
     private Jevon jevon;
 
-    public CombatState(ICharacter jevon, ICharacter enemy)
+    public CombatState(StateMachine stateMachine, ICharacter jevon, ICharacter enemy) : base(stateMachine)
     {
         this.enemy = this.enemy;
         this.jevon = this.jevon;
     }
 
-    public void OnEnter()
+    public override void OnEnter()
     {
         throw new NotImplementedException();
     }
 
-    public void OnExit()
+    public override void OnExit()
     {
         throw new NotImplementedException();
     }
