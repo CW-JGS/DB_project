@@ -22,7 +22,7 @@ public class DecisionEngine
         decisions.Add(decision);
     }
 
-    int concurrentTextM()
+    int ConCurrentTextM()
     {
         Console.SetCursorPosition(0, 0);
         Console.ForegroundColor = ConsoleColor.Cyan;
@@ -33,6 +33,8 @@ public class DecisionEngine
     
     public void Start()
     {
-        ConsoleHelper.MultipleChoice(() => concurrentTextM(), false, decisions.ToArray());
+        var decision = ConsoleHelper.MultipleChoice(() => ConCurrentTextM(), false, decisions.ToArray());
+        Console.Clear();
+        decision.DecisionResponse();
     }
 }

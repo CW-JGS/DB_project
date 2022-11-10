@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\dhanr\\.nuget\\packages\\": {}
+    "/home/thepanable/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\JevonsGame.csproj",
+      "projectUniqueName": "/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/JevonsGame.csproj",
       "projectName": "JevonsGame",
-      "projectPath": "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\JevonsGame.csproj",
-      "packagesPath": "C:\\Users\\dhanr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dhanr\\Desktop\\JS CHALLENGE 2\\DB_project\\JevonsGame\\JevonsGame\\obj\\",
+      "projectPath": "/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/JevonsGame.csproj",
+      "packagesPath": "/home/thepanable/.nuget/packages/",
+      "outputPath": "/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dhanr\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/thepanable/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -51,17 +49,22 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.10, 6.0.10]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.110/RuntimeIdentifierGraph.json"
       }
     }
   }

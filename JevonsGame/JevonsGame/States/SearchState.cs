@@ -2,6 +2,7 @@
 
 public class SearchState : State
 {
+
     public override void OnEnter()
     {
         throw new NotImplementedException();
@@ -12,6 +13,11 @@ public class SearchState : State
         throw new NotImplementedException();
     }
 
+    public void RefreshState()
+    {
+        
+    }
+    
     public SearchState(StateMachine stateMachine) : base(stateMachine)
     {
     }

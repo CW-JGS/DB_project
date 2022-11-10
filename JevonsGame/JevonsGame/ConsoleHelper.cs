@@ -2,7 +2,7 @@
 
 public class ConsoleHelper
 {
-    public static int MultipleChoice(Func<int> concurrentText, bool canCancel, params Decision[] options)
+    public static Decision MultipleChoice(Func<int> concurrentText, bool canCancel, params Decision[] options)
     {
         const int startX = 0;
         int startY = 1;
@@ -65,7 +65,7 @@ public class ConsoleHelper
                 case ConsoleKey.Escape:
                 {
                     if (canCancel)
-                        return -1;
+                        return null;
                     break;
                 }
             }
@@ -73,6 +73,6 @@ public class ConsoleHelper
 
         Console.CursorVisible = true;
 
-        return currentSelection;
+        return options[currentSelection];
     }
 }

@@ -1,15 +1,30 @@
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\bin\Debug\net6.0\JevonsGame.exe
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\bin\Debug\net6.0\JevonsGame.deps.json
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\bin\Debug\net6.0\JevonsGame.runtimeconfig.json
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\bin\Debug\net6.0\JevonsGame.dll
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\bin\Debug\net6.0\JevonsGame.pdb
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.csproj.AssemblyReference.cache
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.AssemblyInfoInputs.cache
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.AssemblyInfo.cs
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.csproj.CoreCompileInputs.cache
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.dll
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\refint\JevonsGame.dll
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.pdb
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\JevonsGame.genruntimeconfig.cache
-C:\Users\dhanr\Desktop\JS CHALLENGE 2\DB_project\JevonsGame\JevonsGame\obj\Debug\net6.0\ref\JevonsGame.dll
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.exe
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.deps.json
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.runtimeconfig.json
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.dll
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.pdb
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.csproj.AssemblyReference.cache
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.AssemblyInfoInputs.cache
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.AssemblyInfo.cs
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.csproj.CoreCompileInputs.cache
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.dll
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/refint/JevonsGame.dll
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.pdb
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.genruntimeconfig.cache
+C:/Users/dhanr/Desktop/JS CHALLENGE 2/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/ref/JevonsGame.dll
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.deps.json
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.runtimeconfig.json
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.dll
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/ref/JevonsGame.dll
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/bin/Debug/net6.0/JevonsGame.pdb
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.csproj.AssemblyReference.cache
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.AssemblyInfoInputs.cache
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.AssemblyInfo.cs
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.csproj.CoreCompileInputs.cache
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.dll
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/ref/JevonsGame.dll
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.pdb
+/home/thepanable/Documents/DB_project/JevonsGame/JevonsGame/obj/Debug/net6.0/JevonsGame.genruntimeconfig.cache
