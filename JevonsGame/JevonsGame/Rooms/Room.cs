@@ -1,7 +1,7 @@
 using JevonsGame.Characters;
 using JevonsGame.States;
 
-namespace JevonsGame;
+namespace JevonsGame.Rooms;
 
 public class Room
 {

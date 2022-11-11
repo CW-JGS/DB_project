@@ -15,7 +15,7 @@ public class CombatState : State
 
     public override void OnEnter()
     {
-        throw new NotImplementedException();
+        //TODO display enemy combat text and decision to coninue
     }
 
     public override void OnExit()

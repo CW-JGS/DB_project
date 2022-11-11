@@ -1,4 +1,6 @@
-﻿namespace JevonsGame.States;
+﻿using JevonsGame.Rooms;
+
+namespace JevonsGame.States;
 
 public class SearchState : State
 {
@@ -13,6 +15,11 @@ public class SearchState : State
         throw new NotImplementedException();
     }
 
+    public void EnterRoom(Room room)
+    {
+        
+    }
+    
     public void RefreshState()
     {
         

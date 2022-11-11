@@ -2,7 +2,7 @@
 
 public interface ICharacter
 {
-    public int Health { get; set; }
+    public float CurrentHealth { get; set; }
     public string Name { get; set; }
     
 }

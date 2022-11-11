@@ -1,4 +1,4 @@
-namespace JevonsGame;
+namespace JevonsGame.Rooms;
 
 public struct Position
 {
