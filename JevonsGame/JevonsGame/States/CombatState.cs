@@ -7,10 +7,10 @@ public class CombatState : State
     private Enemy enemy;
     private Jevon jevon;
 
-    public CombatState(StateMachine stateMachine, ICharacter jevon, ICharacter enemy) : base(stateMachine)
+    public CombatState(StateMachine stateMachine, Jevon jevon, Enemy enemy) : base(stateMachine)
     {
-        this.enemy = this.enemy;
-        this.jevon = this.jevon;
+        this.enemy = enemy;
+        this.jevon = jevon;
     }
 
     public override void OnEnter()
@@ -19,6 +19,11 @@ public class CombatState : State
     }
 
     public override void OnExit()
+    {
+        throw new NotImplementedException();
+    }
+
+    public override void GenerateDecisions()
     {
         throw new NotImplementedException();
     }

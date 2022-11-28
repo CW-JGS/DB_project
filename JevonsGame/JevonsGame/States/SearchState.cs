@@ -7,19 +7,18 @@ public class SearchState : State
 
     public override void OnEnter()
     {
-        throw new NotImplementedException();
+        Console.WriteLine("You have begun searching a room");
     }
 
     public override void OnExit()
     {
-        throw new NotImplementedException();
-    }
-
-    public void EnterRoom(Room room)
-    {
-        
     }
     
+    public override void GenerateDecisions()
+    {
+        Console.WriteLine("Decisions being generated");
+    }
+
     public void RefreshState()
     {
         

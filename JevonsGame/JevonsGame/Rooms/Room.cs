@@ -1,3 +1,4 @@
+using System.CodeDom.Compiler;
 using JevonsGame.Characters;
 using JevonsGame.States;
 
@@ -12,6 +13,14 @@ public class Room
     public String RoomDescription { get; set; }
     public Position position { get; set; }
 
+    public void EnterRoom(StateMachine stateMachine)
+    {
+        stateMachine.game.currentRoom = this;
+        stateMachine.TransitionState(new SearchState(stateMachine));
+        Console.WriteLine($"You have entered a room. {RoomDescription}");
+        stateMachine.currentState.GenerateDecisions();
+    }
+    
     private bool HasEnemy() => enemy != null;
 
     private void GenerateDecisions()

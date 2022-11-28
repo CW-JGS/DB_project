@@ -2,7 +2,7 @@
 
 public class StateMachine
 {
-    private State currentState;
+    public State currentState;
     public Game game;
 
     public StateMachine(Game game)
@@ -12,6 +12,9 @@ public class StateMachine
 
     public void TransitionState(State state)
     {
+        //if the state is the same, no point transitioning
+        if (currentState != null && state.GetType() == currentState.GetType())
+            return;
         currentState?.OnExit();
         currentState = state;
         currentState.OnEnter();

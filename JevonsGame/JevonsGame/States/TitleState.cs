@@ -15,14 +15,14 @@ public class TitleState : State
         Console.WriteLine("Welcome to Jevon's Game");    
     }
 
-    public void GenerateDecisions()
+    public override void GenerateDecisions()
     {
         var decisionEngine = stateMachine.game.decisionEngine;
 
         var playDecision = new Decision()
         {
             DecisionText = "Play",
-            DecisionResponse = new Action(() => Console.WriteLine("Game Starting..."))
+            DecisionResponse = new Action(() => stateMachine.game.currentRoom.EnterRoom(stateMachine))
         };
         var exitDecision = new Decision()
         {
